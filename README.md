@@ -1,9 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+%E5%BB%96%E4%B9%83%E7%8E%AF+%F0%9F%91%8B;AI+Agent+%E4%BA%A7%E5%93%81+%C3%97+AIGC+%E8%A7%86%E8%A7%89;Building+Agents+that+actually+ship" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/200775126?v=4" width="120" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="廖乃环" />
-</p>
-
 <p align="center"><em>做内容,也做在跑的 Agent</em></p>
 
 <p align="center">

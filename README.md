@@ -1,65 +1,48 @@
-<p align="center">
-  <a href="https://github.com/Techdoll00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Huanhuan+%F0%9F%91%8B;AI+Agent+Product+Engineer;Building+the+UX+of+AI+Agents" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Agent-Product%20Engineer-58A6FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hangzhou-2027届-8b5cf6?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Techdoll00&style=flat-square&color=blue" alt=""/>
+  <img src="https://raw.githubusercontent.com/Techdoll00/Techdoll00/main/banner.svg" alt="" width="100%" />
 </div>
+
+### Hi there 👋  I'm **Huanhuan** (环环)
+
+> 🧠 AI Agent Product Engineer — I build the UX layer between humans and agent capabilities.  
+> 📍 Hangzhou · 浙江水利水电学院 数字媒体技术 · 2027  
+> 🎯 Open to: AI Agent PM / Agent Evaluation Engineer roles
 
 ---
 
-### 👩‍💻 About Me
+### 🛠️ Things I Work With
 
-```python
-class Huanhuan:
-    def __init__(self):
-        self.role = "AI Agent Product Engineer"
-        self.school = "浙江水利水电学院 · 数字媒体技术"
-        self.interests = ["Agent Workbench", "Skill Marketplace", "Agent Evaluation"]
-        self.tools = ["OpenClaw", "Hermes", "Codex", "Claude Code", "Cursor"]
-        self.motto = "If you can't evaluate it, you can't improve it."
-```
-
-### 🧠 What I Do
-
-| 🏗️ Build | 📊 Evaluate | 🎨 Design |
-|-----------|------------|-----------|
-| Multi-stage Agent Workflows | 6-layer Eval Frameworks | Agent Output Cards |
-| Skill Marketplaces | Automated Scoring Pipelines | Case-based Onboarding |
-| RAG + Tool Orchestration | Regression Testing Suites | Pre-sales Solution Decks |
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<p>
+  <img alt="Agent Workflow" src="https://img.shields.io/badge/-Agent%20Workflow-5849BE?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="MCP" src="https://img.shields.io/badge/-MCP-0A0A0A?style=flat-square&logo=protocols&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG-00897B?style=flat-square&logo=googledocs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-`Agent Workflow` `MCP` `RAG` `LLM-as-Judge` `Prompt Engineering` `Tool Use` `Memory`
+### 📌 What I've Built
 
-### 📊 GitHub Stats
+| Project | Description |
+|---------|-------------|
+| 🧪 **Agent Eval Pipeline** | 6-layer evaluation framework + automated scoring tool — reduced testing from 1-2 days to minutes |
+| 🏪 **Skill Marketplace** | Designed 20+ AI Skill cards and onboarding flows in Figma for a fashion AI workbench |
+| 📊 **LLM-as-Judge** | Built offline evaluation with test-set management, rule scoring, and regression comparison |
+| 📰 **Daily AI Briefing Bot** | Automated daily AI news push via Feishu with curated GitHub / Agent / Hiring signals |
+| 🎨 **AIGC Content Pipeline** | Delivered 30+ commercial video templates end-to-end using SD / Pika / Keling |
+
+### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Techdoll00&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techdoll00&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Techdoll00&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=666" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techdoll00&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0969da&text_color=666" height="140" />
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Techdoll00&theme=tokyonight&no-frame=true&column=7" alt="trophy"/>
-</p>
-
-### 📬 Connect
-
-<p align="left">
-  <a href="https://github.com/Techdoll00/huanhuans-ai-shelf"><img src="https://img.shields.io/badge/📝_Blog-huanhuans--ai--shelf-ff69b4?style=flat-square"/></a>
-  <a href="mailto:17789651909@163.com"><img src="https://img.shields.io/badge/📧_Email-17789651909@163.com-red?style=flat-square"/></a>
+  <a href="https://github.com/Techdoll00/huanhuans-ai-shelf">📝 Blog</a> ·
+  <a href="mailto:17789651909@163.com">📧 Email</a> ·
+  <a href="https://github.com/Techdoll00">⭐ GitHub</a>
 </p>

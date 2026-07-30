@@ -1,20 +1,14 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I'm+Liaonaihuan;AI+Agent+%C3%97+AIGC+Visual+Creator;Building+Agents+that+actually+ship" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/200775126?v=4" width="120" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Liaonaihuan" />
-</p>
-
-<p align="center"><em>做内容,也做在跑的 Agent</em></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=42&duration=3000&pause=1000&color=002FA7&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I'm+Liaonaihuan;AI+Agent+%C3%97+AIGC+Visual+Creator;Building+Agents+that+actually+ship" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logo=stability&logoColor=white" alt="Stable Diffusion" />
-  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Midjourney-1A1A1A?style=for-the-badge" alt="Midjourney" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Hermes-FF6B6B?style=for-the-badge&logo=hermes&logoColor=white" alt="Hermes" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/ComfyUI-1A1A1A?style=for-the-badge" alt="ComfyUI" />
 </p>
 
 ---

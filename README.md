@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Techdoll00/Techdoll00/main/banner.svg" alt="" width="100%" />
-</div>
-
 ### Hi there 👋  I'm **Huanhuan** (环环)
 
 > 🧠 AI Agent Product Engineer — I build the UX layer between humans and agent capabilities.  
 > 📍 Hangzhou · 浙江水利水电学院 数字媒体技术 · 2027  
-> 🎯 Open to: AI Agent PM / Agent Evaluation Engineer roles
+> 🎯 Open to: AI Agent PM / Agent Evaluation Engineer
 
 ---
 
@@ -28,7 +24,7 @@
 |---------|-------------|
 | 🧪 **Agent Eval Pipeline** | 6-layer evaluation framework + automated scoring tool — reduced testing from 1-2 days to minutes |
 | 🏪 **Skill Marketplace** | Designed 20+ AI Skill cards and onboarding flows in Figma for a fashion AI workbench |
-| 📊 **LLM-as-Judge** | Built offline evaluation with test-set management, rule scoring, and regression comparison |
+| 📊 **LLM-as-Judge** | Built offline evaluation pipeline with test-set management, rule scoring, and regression comparison |
 | 📰 **Daily AI Briefing Bot** | Automated daily AI news push via Feishu with curated GitHub / Agent / Hiring signals |
 | 🎨 **AIGC Content Pipeline** | Delivered 30+ commercial video templates end-to-end using SD / Pika / Keling |
 

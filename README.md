@@ -15,7 +15,7 @@
 
 ### 📅 这一周在忙什么
 
-- 🤖 **飞书 AI 每日早报 Agent** —— 已连续推送 4 天,真在跑
+- 🤖 **飞书 AI 每日早报 Agent** —— 已连续推送5天
 - 📝 **Huannessbot** —— 把手机变成随身 Agent 控制台(Telegram + 腾讯云 VPS + opencode + DeepSeek,24/7 在线)
 - ✍️ [**huanhuan.ai**](http://101.35.254.22/) —— 写垂直行业 Agent 落地周记
 
@@ -35,8 +35,8 @@
 
 ### 💼 实习经历
 
-- **Style3D(凌迪科技)** · AI Agent 产品实习生 · 杭州 · 2026.03 – 2026.07
-- **小影科技(AICatch)** · AIGC 内容实习生 · 杭州 · 2025.06 – 2025.10
+- **Style3D(凌迪科技)** · AI Agent Engineer @ Style3D · 杭州
+- **小影科技(AICatch)** · AIGC 设计师 · 杭州 
 
 ---
 

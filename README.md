@@ -1,7 +1,6 @@
-Hi, I'm 廖乃环 👋
-
-**AI Agent Product Engineer · Hangzhou**  
-Building the UX layer between humans and AI agents.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%E5%BB%96%E4%B9%83%E7%8E%AF+%F0%9F%91%8B;AI+Agent+Product+Engineer;Building+Agent+UX+%26+Skill+Marketplaces" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -22,13 +21,12 @@ I'm an AI Agent Product Engineer based in Hangzhou. At [Style3D](https://www.lin
 
 | Project | Description |
 |---------|-------------|
-| 🧪 [Agent Eval Pipeline]() | 6-layer evaluation framework + automated scoring — reduced testing from 1-2 days to minutes |
-| 🏪 [Skill Marketplace Design]() | 20+ AI Skill cards & onboarding flows in Figma for a fashion AI workbench |
-| 📰 [Daily AI Briefing]() | Automated AI news push via Feishu with curated GitHub / Agent / Hiring signals |
-| 🎨 [AIGC Content Pipeline]() | Delivered 30+ commercial video templates end-to-end using SD / Pika / Keling |
+| 🧪 [Agent Eval Tool](https://github.com/Techdoll00/agent-eval-tool) | Automated evaluation pipeline with 6-layer framework, golden test sets & LLM-as-Judge |
+| 🎨 [Image → Editable PPT](https://github.com/Techdoll00/image-transform-to-editable-ppt) | AI-powered tool that converts design images to editable PowerPoint slides |
+| 📝 [InkTask](https://github.com/Techdoll00/InkTask) | Minimal task management app — clean UI, vanilla JavaScript |
 
 ### 📬
 
-- 🌐 [huanhuan.ai](http://101.35.254.22/) — Personal blog
+- 🌐 [Blog](http://101.35.254.22/)
 - 📧 [17789651909@163.com](mailto:17789651909@163.com)
 - ⭐ [GitHub](https://github.com/Techdoll00)

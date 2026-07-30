@@ -4,7 +4,7 @@
 
 ---
 
-I'm an AI Agent Product Engineer based in Hangzhou. At [Style3D](https://www.linctex.com), I designed 20+ AI Skill cards, built a 6-layer Agent evaluation framework, and shipped automated testing pipelines. I'm currently building personal AI tooling and preparing for 2027 campus recruitment.
+I'm an AI Agent Product Engineer based in Hangzhou. At [Style3D](https://www.linctex.com), I designed 20+ AI Skill cards, built a 6-layer Agent evaluation framework, and shipped automated testing pipelines. I enjoy working at the intersection of product, design, and engineering — currently building open-source Agent tooling for the Chinese AI ecosystem.
 
 **Daily tools:** OpenClaw · Hermes Agent · Codex · Claude Code · Cursor
 
@@ -13,17 +13,19 @@ I'm an AI Agent Product Engineer based in Hangzhou. At [Style3D](https://www.lin
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Agent Workflow" src="https://img.shields.io/badge/-Agent%20Workflow-5849BE?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ### 📂 Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧪 [Agent Eval Tool](https://github.com/Techdoll00/agent-eval-tool) | Automated evaluation pipeline with 6-layer framework, golden test sets & LLM-as-Judge |
-| 🎨 [Image → Editable PPT](https://github.com/Techdoll00/image-transform-to-editable-ppt) | AI-powered tool that converts design images to editable PowerPoint slides |
-| 📝 [InkTask](https://github.com/Techdoll00/InkTask) | Minimal task management app — clean UI, vanilla JavaScript |
+| Status | Project | Description |
+|--------|---------|-------------|
+| 🚧 WIP | [AI News Briefing](https://github.com/Techdoll00/ai-news-briefing-agent) | One-click Feishu AI daily briefing bot — GitHub/Agent/Hiring signals |
+| 🚧 WIP | [Hermes Skills](https://github.com/Techdoll00/hermes-skills-collection) | Collection of 6+ practical Hermes Agent skills (book-to-skill, grill-me, etc.) |
+| 🚧 WIP | [Agent Interview Playbook](https://github.com/Techdoll00/agent-interview-playbook) | 200 AI Agent interview questions with answers & storytelling frameworks |
+| ✅ Done | [Agent Eval Tool](https://github.com/Techdoll00/agent-eval-tool) | 6-layer evaluation framework + LLM-as-Judge + automated scoring |
+| ✅ Done | [Image→Editable PPT](https://github.com/Techdoll00/image-transform-to-editable-ppt) | AI converts design images into editable PowerPoint slides |
+| ✅ Done | [InkTask](https://github.com/Techdoll00/InkTask) | Minimal task management app — clean UI, vanilla JavaScript |
 
 ### 📬
 

@@ -1,20 +1,25 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+%E5%BB%96%E4%B9%83%E7%8E%AF+%F0%9F%91%8B;AI+Agent+%E4%BA%A7%E5%93%81+%C3%97+AIGC+%E8%A7%86%E8%A7%89;Building+Agents+that+actually+ship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=720&lines=Hi%2C+I'm+Liaonaihuan;AI+Agent+%C3%97+AIGC+Visual+Creator;Building+Agents+that+actually+ship" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/200775126?v=4" width="120" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" alt="Liaonaihuan" />
+</p>
 
 <p align="center"><em>做内容,也做在跑的 Agent</em></p>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python" /></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="36" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node" /></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" alt="Figma" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" alt="Git" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logo=stability&logoColor=white" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/Midjourney-1A1A1A?style=for-the-badge" alt="Midjourney" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
 </p>
 
 ---
 
-### 🌱 现在在忙什么
+### 📅 这一周在忙什么
 
 - 🤖 **飞书 AI 每日早报 Agent** —— 已连续推送 4 天,真在跑
 - 📝 **Huannessbot** —— 把手机变成随身 Agent 控制台(Telegram + 腾讯云 VPS + opencode + DeepSeek,24/7 在线)

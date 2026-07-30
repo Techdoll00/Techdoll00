@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm 廖乃环 👋</h1>
-<h3 align="center">AI Agent Product Engineer · Hangzhou</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%E5%BB%96%E4%B9%83%E7%8E%AF+%F0%9F%91%8B;AI+Agent+Product+Engineer;Building+Agent+UX+%26+Skill+Marketplaces" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 

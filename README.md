@@ -29,7 +29,7 @@
 | [morning-brief](https://github.com/Techdoll00/morning-brief) | 飞书 AI 每日早报 · 已连续推送 | 🏃 Running |
 | [AgentLens](https://github.com/Techdoll00/AgentLens) | 6 层 Agent 评测框架 · LLM-as-Judge | ✅ Open Source |
 | [InkTask](https://github.com/Techdoll00/intask) | 极简任务管理 · [Demo](https://inktask.vercel.app) | ✅ Done |
-| [fashion-search](https://github.com/Techdoll00/fashion-search) | AI 服装趋势 Agent · IG+Pinterest · LLM Rerank | ✅ Open Source |
+| [fashion-search](https://github.com/Techdoll00/fashion-search) | AI 时尚趋势 Agent · IG+Pinterest+小红书 · Full-stack | ✅ Open Source |
 | [AI-Compass](https://github.com/Techdoll00/aicompass) | AI 学习搜索 · [Demo](https://ai-compass-deploy-git-main-lnhs-projects.vercel.app) | ✅ Open Source |
 
 ---

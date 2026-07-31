@@ -30,7 +30,7 @@
 | [AgentLens](https://github.com/Techdoll00/AgentLens) | 6 层 Agent 评测框架 · LLM-as-Judge | ✅ Open Source |
 | [InkTask](https://github.com/Techdoll00/intask) | 极简任务管理 · [Demo](https://inktask.vercel.app) | ✅ Done |
 | [fashion-search](https://github.com/Techdoll00/fashion-search) | AI 服装趋势 Agent · IG+Pinterest · LLM Rerank | ✅ Open Source |
-| [AI-Compass](https://github.com/Techdoll00/aicompass) | 大学生 AI 学习搜索平台 | 🔒 Sanitizing |
+| [AI-Compass](https://github.com/Techdoll00/aicompass) | AI 学习搜索 · 基于 Morphic · 速学+深研 | ✅ Open Source |
 
 ---
 

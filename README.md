@@ -50,4 +50,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Techdoll00&label=Visitors&color=FF6B6B&style=flat-square" alt="Visitor Count" />
-</p>
+</p>### 📂 Projects
+
+| Project | What |
+|---------|------|
+| 🧠 [skills-collection](https://github.com/Techdoll00/skills-collection) | Curated Hermes Agent skills — trending weekly |
+| 📰 [morning-brief](https://github.com/Techdoll00/morning-brief) | Autonomous AI daily briefing — Hermes Cron + DeepSeek |
+| 🔍 [agentlens](https://github.com/Techdoll00/agentlens) | Agent eval harness — 6-layer framework + LLM-as-Judge |
+| ✅ [intask](https://github.com/Techdoll00/intask) | Minimal task manager — vanilla JavaScript |
+| 👗 [fashion-search](https://github.com/Techdoll00/fashion-search) | AI fashion trend search — retrieval + rerank |
+| 🧭 [aicompass](https://github.com/Techdoll00/aicompass) | AI learning search platform for college students |
+
+

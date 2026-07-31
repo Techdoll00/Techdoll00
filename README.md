@@ -25,11 +25,12 @@
 
 | Project | What | Status |
 |---------|------|--------|
-| [agentlens](https://github.com/Techdoll00/agentlens) | 6 层 Agent 评测框架 | ✅ Open Source |
-| [morning-brief](https://github.com/Techdoll00/morning-brief) | 每日 AI 早报机器人 | 🏃 Running |
-| [skills-collection](https://github.com/Techdoll00/skills-collection) | Hermes Agent 实用技能合集 | 📦 Updating |
-| [feishu-ai-knowledge-base](https://github.com/Techdoll00/feishu-ai-knowledge-base) | 飞书多维表格 AI 知识库模板 | 📦 Template |
-| [agent-interview-playbook](https://github.com/Techdoll00/agent-interview-playbook) | AI Agent 面试开卷题库 | 📚 200+ |
+| [skills-collection](https://github.com/Techdoll00/skills-collection) | Hermes Agent 技能合集 · 每周 Trending | 📦 Updating |
+| [morning-brief](https://github.com/Techdoll00/morning-brief) | 飞书 AI 每日早报 · 已连续推送 | 🏃 Running |
+| [agentlens](https://github.com/Techdoll00/agentlens) | 6 层 Agent 评测框架 · LLM-as-Judge | ✅ Open Source |
+| [intask](https://github.com/Techdoll00/intask) | 极简任务管理 · Vanilla JS | ✅ Done |
+| [fashion-search](https://github.com/Techdoll00/fashion-search) | AI 服装趋势搜索 · 检索+Rerank | 🔒 Sanitizing |
+| [aicompass](https://github.com/Techdoll00/aicompass) | 大学生 AI 学习搜索平台 | 🔒 Sanitizing |
 
 ---
 
@@ -50,15 +51,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Techdoll00&label=Visitors&color=FF6B6B&style=flat-square" alt="Visitor Count" />
-</p>### 📂 Projects
-
-| Project | What |
-|---------|------|
-| 🧠 [skills-collection](https://github.com/Techdoll00/skills-collection) | Curated Hermes Agent skills — trending weekly |
-| 📰 [morning-brief](https://github.com/Techdoll00/morning-brief) | Autonomous AI daily briefing — Hermes Cron + DeepSeek |
-| 🔍 [agentlens](https://github.com/Techdoll00/agentlens) | Agent eval harness — 6-layer framework + LLM-as-Judge |
-| ✅ [intask](https://github.com/Techdoll00/intask) | Minimal task manager — vanilla JavaScript |
-| 👗 [fashion-search](https://github.com/Techdoll00/fashion-search) | AI fashion trend search — retrieval + rerank |
-| 🧭 [aicompass](https://github.com/Techdoll00/aicompass) | AI learning search platform for college students |
-
-
+</p>

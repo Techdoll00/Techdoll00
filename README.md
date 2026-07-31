@@ -25,9 +25,9 @@
 
 | Project | What | Status |
 |---------|------|--------|
-| [agent-eval-tool](https://github.com/Techdoll00/agent-eval-tool) | 6 层 Agent 评测框架 | ✅ Open Source |
+| [agentlens](https://github.com/Techdoll00/agentlens) | 6 层 Agent 评测框架 | ✅ Open Source |
 | [morning-brief](https://github.com/Techdoll00/morning-brief) | 每日 AI 早报机器人 | 🏃 Running |
-| [hermes-skills-collection](https://github.com/Techdoll00/hermes-skills-collection) | Hermes Agent 实用技能合集 | 📦 Updating |
+| [skills-collection](https://github.com/Techdoll00/skills-collection) | Hermes Agent 实用技能合集 | 📦 Updating |
 | [feishu-ai-knowledge-base](https://github.com/Techdoll00/feishu-ai-knowledge-base) | 飞书多维表格 AI 知识库模板 | 📦 Template |
 | [agent-interview-playbook](https://github.com/Techdoll00/agent-interview-playbook) | AI Agent 面试开卷题库 | 📚 200+ |
 

@@ -17,7 +17,7 @@
 
 - **飞书 AI 每日早报 Agent** —— 已连续推送5天
 - **Huannessbot** —— 把手机变成随身 Agent 控制台(Telegram + 腾讯云 VPS + opencode + DeepSeek,24/7 在线)
--  [**huanhuan.ai**](http://101.35.254.22/) —— 写垂直行业 Agent 落地周记
+-  [**kinliao.top**](https://kinliao.top/) —— 写垂直行业 Agent 落地周记
 
 ---
 

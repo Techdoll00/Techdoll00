@@ -15,7 +15,7 @@
 
 ### 📅 这一周在忙什么
 
-- **飞书 AI 每日早报 Agent** —— 已连续推送5天
+- **Hermes 飞书晨报 Agent** —— 已连续推送5天
 - **Huannessbot** —— 把手机变成随身 Agent 控制台(Telegram + 腾讯云 VPS + opencode + DeepSeek,24/7 在线)
 -  [**kinliao.top**](https://kinliao.top/) —— 个人网站
 
@@ -25,8 +25,7 @@
 
 | Project | What | Status |
 |---------|------|--------|
-| [skillforge](https://github.com/Techdoll00/skillforge) | Hermes Agent 技能合集 · 每周 Trending | 📦 Updating |
-| [morning-brief](https://github.com/Techdoll00/morning-brief) | 飞书 AI 每日早报 · 已连续推送 | 🏃 Running |
+| [morning-brief](https://github.com/Techdoll00/morning-brief) | Hermes 飞书晨报 · 已连续推送 | 🏃 Running |
 | [AgentLens](https://github.com/Techdoll00/AgentLens) | 6 层 Agent 评测框架 · LLM-as-Judge | ✅ Open Source |
 | [InkTask](https://github.com/Techdoll00/intask) | 极简任务管理 · [Demo](https://inktask.vercel.app) | ✅ Done |
 | [fashion-search](https://github.com/Techdoll00/fashion-search) | AI 时尚趋势 Agent · IG+Pinterest · Full-stack | ✅ Open Source |

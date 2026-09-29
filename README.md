@@ -34,7 +34,7 @@
 ---
 
 ### 实习经历
-
+- **网易** · AI产品策划 @伏羲实验室 · 杭州
 - **Style3D(凌迪科技)** · AI Agent Engineer @ Style3D · 杭州
 - **小影科技(AICatch)** · AIGC 设计师 · 杭州 
 
